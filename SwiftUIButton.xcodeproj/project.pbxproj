@@ -13,6 +13,7 @@
 		DD1413C2241369110077F82E /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD1413C1241369110077F82E /* Assets.xcassets */; };
 		DD1413C5241369110077F82E /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = DD1413C4241369110077F82E /* Preview Assets.xcassets */; };
 		DD1413C8241369110077F82E /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = DD1413C6241369110077F82E /* LaunchScreen.storyboard */; };
+		DD1413D024138EDB0077F82E /* CardView.swift in Sources */ = {isa = PBXBuildFile; fileRef = DD1413CF24138EDB0077F82E /* CardView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		DD1413C4241369110077F82E /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		DD1413C7241369110077F82E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		DD1413C9241369110077F82E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		DD1413CF24138EDB0077F82E /* CardView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CardView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				DD1413BB2413690C0077F82E /* AppDelegate.swift */,
 				DD1413BD2413690C0077F82E /* SceneDelegate.swift */,
 				DD1413BF2413690C0077F82E /* ContentView.swift */,
+				DD1413CF24138EDB0077F82E /* CardView.swift */,
 				DD1413C1241369110077F82E /* Assets.xcassets */,
 				DD1413C6241369110077F82E /* LaunchScreen.storyboard */,
 				DD1413C9241369110077F82E /* Info.plist */,
@@ -148,6 +151,7 @@
 			files = (
 				DD1413BC2413690C0077F82E /* AppDelegate.swift in Sources */,
 				DD1413BE2413690C0077F82E /* SceneDelegate.swift in Sources */,
+				DD1413D024138EDB0077F82E /* CardView.swift in Sources */,
 				DD1413C02413690C0077F82E /* ContentView.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
